@@ -58,7 +58,7 @@ export function Testimonials({ language }: TestimonialsProps) {
           initials: 'JT'
         },
         {
-          name: 'Rosena Jean',
+          name: 'Rosena Jeann',
           role: 'Fondatè Nouvo Biznis Manje',
           content: 'Kòm premye fwa m kòmanse biznis manje, mwen te santi m depase. Rose te bay mwen ekspètiz ak sipò mwen te bezwen pou m lanse avèk siksè epi grandi avèk konfyans.',
           rating: 5,
