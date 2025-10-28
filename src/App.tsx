@@ -90,7 +90,7 @@ export default function App() {
             >
               <div className="w-16 h-16 flex items-center justify-center">
                 <img
-                  src="Images\Gemini_Generated_Image_s58pns58pns58pns (1)-modified.png"
+                  src="Gemini_Generated_Image_s58pns58pns58pns (1)-modified.png"
                   alt="Marsan Logo"
                   className="w-full h-full object-contain"
                 />
@@ -197,7 +197,7 @@ export default function App() {
               <div className="flex items-center space-x-3 mb-4">
                 <div className="w-16 h-16 flex items-center justify-center">
                   <img
-                    src="Images\Gemini_Generated_Image_s58pns58pns58pns (1)-modified.png"
+                    src="Gemini_Generated_Image_s58pns58pns58pns (1)-modified.png"
                     alt="Marsan Logo"
                     className="w-full h-full object-contain"
                   />

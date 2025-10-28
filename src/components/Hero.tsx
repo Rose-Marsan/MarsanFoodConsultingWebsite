@@ -119,7 +119,7 @@ export function Hero({ language }: HeroProps) {
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <div className="absolute inset-0 bg-gradient-to-tr from-emerald-600/20 to-transparent z-10" />
               <ImageWithFallback
-                src="Images\logo.png"
+                src="logo.png"
                 alt="Professional food business consulting"
                 className="w-full h-[550px] object-cover"
               />

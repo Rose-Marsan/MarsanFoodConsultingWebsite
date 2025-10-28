@@ -163,7 +163,7 @@ export function FounderProfile({ language }: FounderProfileProps) {
               {/* Main photo */}
               <div className="relative rounded-2xl overflow-hidden shadow-2xl">
                 <ImageWithFallback
-                  src="Images\Picture1.jpg"
+                  src="Picture1.jpg"
                   alt="Rose Marsan - Founder"
                   className="w-full h-[550px] object-cover"
                 />
