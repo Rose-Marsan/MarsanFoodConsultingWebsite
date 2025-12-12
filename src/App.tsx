@@ -244,7 +244,7 @@ export default function App() {
             <div>
               <h4 className="text-white mb-4">{language === 'en' ? 'Contact' : 'Kontakte'}</h4>
               <ul className="space-y-2 text-sm text-gray-400">
-                <li>rosemarsan@gmail.com</li>
+                <li>info@marsanfoodconsulting.com</li>
                 <li>(617) 828-0346</li>
                 <li>
                   {language === 'en' 

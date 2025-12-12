@@ -85,7 +85,7 @@ export function Contact({ language }: ContactProps) {
                 <div>
                   <h4 className="text-emerald-700 mb-2">{text.email}</h4>
                   <a href="mailto:info@marsanfoodconsulting.com" className="text-gray-700 hover:text-emerald-700 transition-colors">
-                    rosemarsan@gmail.com
+                    info@marsanfoodconsulting.com
                   </a>
                 </div>
               </div>

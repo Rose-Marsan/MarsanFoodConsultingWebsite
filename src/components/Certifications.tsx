@@ -50,14 +50,14 @@ export function Certifications({ language }: CertificationsProps) {
       ],
       education: [
         {
-          degree: 'Bachelor of Science in Operations Management',
-          institution: 'Florida International University',
+          degree: 'MBA in Operations Management',
+          institution: 'Southern New Hampshire University',
           year: '2015',
           highlights: ['Supply Chain Management', 'Process Optimization', 'Quality Control', 'Business Analytics']
         },
         {
           degree: 'Associate Degree in Culinary Arts',
-          institution: 'Le Cordon Bleu',
+          institution: 'Bunker Hill Community College',
           year: '2012',
           highlights: ['Professional Cooking', 'Menu Development', 'Kitchen Management', 'Food Costing']
         }
@@ -118,14 +118,14 @@ export function Certifications({ language }: CertificationsProps) {
       ],
       education: [
         {
-          degree: 'Lisans nan Syans Jesyon Operasyon',
-          institution: 'Florida International University',
+          degree: 'MBA nan Jesyon Operasyon',
+          institution: 'Southern New Hampshire University',
           year: '2015',
           highlights: ['Jesyon Chèn Aprovizònman', 'Optimize Pwosesis', 'Kontwòl Kalite', 'Analitik Biznis']
         },
         {
           degree: 'Diplòm Asosye nan Atizay Kizin',
-          institution: 'Le Cordon Bleu',
+          institution: 'Bunker Hill Community College',
           year: '2012',
           highlights: ['Kizin Pwofesyonèl', 'Devlopman Meni', 'Jesyon Kizin', 'Kalkilasyon Pri Manje']
         }
